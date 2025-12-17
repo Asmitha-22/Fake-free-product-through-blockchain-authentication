@@ -9,9 +9,6 @@ Last Update: Fixed issues with connecting with metamask.
 
 ### Blockchain based Fake product identification Solution using QR Codes
 
-## Installation & Demo
-[![FraudBlock](https://github.com/yogeshxd/FraudBlock/blob/main/Documents/image.png)](https://youtu.be/F01t48jT5wQ)
-
 ## Packages Required:-
 - Truffle v5.6.7 (core: 5.6.7)
 - Ganache v7.5.0
